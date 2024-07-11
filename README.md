@@ -11,8 +11,6 @@
 
 ![Release](https://img.shields.io/github/tag/liangsuimansui/alist-ddns-go?style=flat-square&label=Release) ![Stars](https://img.shields.io/github/stars/liangsuimansui/alist-ddns-go?style=flat-square&label=Stars&logo=github "GitHub Repo stars") ![Downloads](https://img.shields.io/github/downloads/liangsuimansui/alist-ddns-go/total?style=flat-square&label=Download&logo=github)
 
-[![Coolapk](https://img.shields.io/badge/酷安-良岁-hotpink?style=flat-square)](http://www.coolapk.com/u/11696005)
-
 # 模块工作目录
 `data/alist-ddns-go`
 
@@ -25,7 +23,9 @@
 
 > ## 提示
 > 首次安装Alist的账号为：`admin`
+>
 > 密码在文件`/data/alist-ddns-go/logs/alist_run.log`中的`Successfully created the admin user and the initial password is:`
+>
 > 另外，这里提供一些ddns-go通过接口获取ip的接口
 > ipv4:
 > ```
