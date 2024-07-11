@@ -24,7 +24,7 @@
 > ## 提示
 > 首次安装Alist的账号为：`admin`
 >
-> 密码在文件`/data/alist-ddns-go/logs/alist_run.log`中的`Successfully created the admin user and the initial password is:`
+> 密码在文件 `/data/alist-ddns-go/logs/alist_run.log` 中的 `Successfully created the admin user and the initial password is:`
 >
 > 另外，这里提供一些ddns-go通过接口获取ip的接口：
 >

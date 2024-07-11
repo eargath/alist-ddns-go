@@ -23,7 +23,7 @@ This is a Magisk module that provides support for Alist and ddns-go services for
 > ## prompt
 > The account that installed Alist for the first time was: `admin`
 >
-> Password lookup`Successfully created the admin user and the initial password is:`in file`/data/alist-ddns-go/logs/alist_run.log`
+> Password lookup `Successfully created the admin user and the initial password is:` in file `/data/alist-ddns-go/logs/alist_run.log`
 >
 > In addition, here are some interfaces for ddns-go to get ip through interfaces:
 >
