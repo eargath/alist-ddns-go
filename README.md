@@ -26,7 +26,8 @@
 >
 > 密码在文件`/data/alist-ddns-go/logs/alist_run.log`中的`Successfully created the admin user and the initial password is:`
 >
-> 另外，这里提供一些ddns-go通过接口获取ip的接口
+> 另外，这里提供一些ddns-go通过接口获取ip的接口：
+>
 > ipv4:
 > ```
 > https://myip4.ipip.net,https://ddns.oray.com/checkip,https://ip.3322.net,https://4.ipw.cn,https://ipinfo.io,https://cip.cc,https://ident.me,https://v4.ident.me

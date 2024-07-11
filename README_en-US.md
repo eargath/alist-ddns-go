@@ -25,7 +25,8 @@ This is a Magisk module that provides support for Alist and ddns-go services for
 >
 > Password lookup`Successfully created the admin user and the initial password is:`in file`/data/alist-ddns-go/logs/alist_run.log`
 >
-> In addition, here are some interfaces for ddns-go to get ip through interfaces
+> In addition, here are some interfaces for ddns-go to get ip through interfaces:
+>
 > ipv4:
 > ```
 > https://myip4.ipip.net,https://ddns.oray.com/checkip,https://ip.3322.net,https://4.ipw.cn,https://ipinfo.io,https://cip.cc,https://ident.me,https://v4.ident.me
