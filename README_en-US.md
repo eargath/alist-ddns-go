@@ -21,6 +21,15 @@ This is a Magisk module that provides support for Alist and ddns-go services for
 > #### https://alist.nn.ci/
 > ## GitHub repo for ddns-go
 > #### https://github.com/jeessy2/ddns-go
+> In addition, here are some interfaces for ddns-go to get ip through interfaces
+> ipv4:
+> ```
+> https://myip4.ipip.net,https://ddns.oray.com/checkip,https://ip.3322.net,https://4.ipw.cn,https://ipinfo.io,https://cip.cc,https://ident.me,https://v4.ident.me
+> ```
+> ipv6:
+> ```
+> https://ipv6.ddnspod.com,https://api-ipv6.ip.sb/ip,https://v6.myip.la/json
+> ```
 
 > ## prompt
 > The account that installed Alist for the first time was: `admin`

@@ -26,6 +26,15 @@
 > ## 提示
 > 首次安装Alist的账号为：`admin`
 > 密码在文件`/data/alist-ddns-go/logs/alist_run.log`中的`Successfully created the admin user and the initial password is:`
+> 另外，这里提供一些ddns-go通过接口获取ip的接口
+> ipv4:
+> ```
+> https://myip4.ipip.net,https://ddns.oray.com/checkip,https://ip.3322.net,https://4.ipw.cn,https://ipinfo.io,https://cip.cc,https://ident.me,https://v4.ident.me
+> ```
+> ipv6:
+> ```
+> https://ipv6.ddnspod.com,https://api-ipv6.ip.sb/ip,https://v6.myip.la/json
+> ```
 
 > [!NOTE]
 > 对于模块来说，原文档提供的命令将无法使用，模块提供了脚本来打开或关闭对应功能，脚本位于
